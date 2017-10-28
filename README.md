@@ -1,5 +1,6 @@
 # 2captcha_harvester
-2captcha harvester, will save g-response to list in a (hour:minute).txt file using Pickle
+2captcha threaded harvester, will save g-response to list in a (hour:minute).txt file using Pickle
+
 
 
 REQUIEREMENTS: modules: requests, BeautifulSoup, pickle, threading
